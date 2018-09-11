@@ -1,0 +1,6 @@
+c:\users\goutham\documents\visual studio 2015\Projects\Cority\Cority\bin\Debug\Cority.exe.config
+c:\users\goutham\documents\visual studio 2015\Projects\Cority\Cority\bin\Debug\Cority.exe
+c:\users\goutham\documents\visual studio 2015\Projects\Cority\Cority\bin\Debug\Cority.pdb
+c:\users\goutham\documents\visual studio 2015\Projects\Cority\Cority\obj\Debug\Cority.csprojResolveAssemblyReference.cache
+c:\users\goutham\documents\visual studio 2015\Projects\Cority\Cority\obj\Debug\Cority.exe
+c:\users\goutham\documents\visual studio 2015\Projects\Cority\Cority\obj\Debug\Cority.pdb

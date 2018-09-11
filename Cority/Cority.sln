@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cority", "Cority\Cority.csproj", "{9740C0EE-FE1F-4204-8EB1-F55FF89DD36F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{79709D0E-FEB7-4D04-9C09-4D02B2DB4C82}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9740C0EE-FE1F-4204-8EB1-F55FF89DD36F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9740C0EE-FE1F-4204-8EB1-F55FF89DD36F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9740C0EE-FE1F-4204-8EB1-F55FF89DD36F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9740C0EE-FE1F-4204-8EB1-F55FF89DD36F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79709D0E-FEB7-4D04-9C09-4D02B2DB4C82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79709D0E-FEB7-4D04-9C09-4D02B2DB4C82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79709D0E-FEB7-4D04-9C09-4D02B2DB4C82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79709D0E-FEB7-4D04-9C09-4D02B2DB4C82}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
